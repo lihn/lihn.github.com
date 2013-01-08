@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lihn.github.com/atom.xml" rel="self"/>
   <link href="http://lihn.github.com/"/>
-  <updated>2013-01-08T11:23:02+08:00</updated>
+  <updated>2013-01-08T11:44:53+08:00</updated>
   <id>http://lihn.github.com/</id>
   <author>
     <name><![CDATA[lihn.alex]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[code test]]></title>
+    <link href="http://lihn.github.com/blog/2013/01/08/code-test/"/>
+    <updated>2013-01-08T11:33:00+08:00</updated>
+    <id>http://lihn.github.com/blog/2013/01/08/code-test</id>
+    <content type="html"><![CDATA[<blockquote><p>下面测试代码高亮:</p>
+
+<pre><code>&gt; ''' 
+&gt; rake generate 
+&gt; rake deploy
+&gt;
+''' 
+</code></pre></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[zen mo diu le yi pian blog]]></title>
