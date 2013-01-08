@@ -2,28 +2,22 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://lihn.github.com/blog/2013/01/07/zong-suan-gao-ding-liao/</loc>
-        <lastmod>2013-01-08T09:15:38+08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://lihn.github.com/blog/2013/01/08/zai-ling-wai-%5B%3F%5D-tian-ji-qi-shang-bian-ji/
-        </loc>
-        <lastmod>2013-01-08T09:16:36+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://lihn.github.com/</loc>
-        <lastmod>2013-01-08T09:16:36+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://lihn.github.com/blog/archives/</loc>
-        <lastmod>2013-01-08T09:16:36+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://lihn.github.com/robots.txt</loc>
-        <lastmod>2013-01-08T09:15:38+08:00</lastmod>
+        <lastmod>2013-01-08T10:12:54+08:00</lastmod>
     </url>
     <url>
         <loc>http://lihn.github.com/about.html</loc>
-        <lastmod>2013-01-08T09:15:38+08:00</lastmod>
+        <lastmod>2013-01-08T10:12:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lihn.github.com/blog/archives/</loc>
+        <lastmod>2013-01-08T10:12:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lihn.github.com/</loc>
+        <lastmod>2013-01-08T10:12:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lihn.github.com/robots.txt</loc>
+        <lastmod>2013-01-08T10:12:54+08:00</lastmod>
     </url>
 </urlset>
