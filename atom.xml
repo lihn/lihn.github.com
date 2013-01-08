@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lihn.github.com/atom.xml" rel="self"/>
   <link href="http://lihn.github.com/"/>
-  <updated>2013-01-07T22:54:47+08:00</updated>
+  <updated>2013-01-08T09:16:55+08:00</updated>
   <id>http://lihn.github.com/</id>
   <author>
     <name><![CDATA[lihn.alex]]></name>
@@ -14,12 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[在来一条试试]]></title>
-    <link href="http://lihn.github.com/blog/2013/01/07/zai-lai-%5B%3F%5D-tiao-shi-shi/"/>
-    <updated>2013-01-07T22:51:00+08:00</updated>
-    <id>http://lihn.github.com/blog/2013/01/07/zai-lai-[?]-tiao-shi-shi</id>
-    <content type="html"><![CDATA[<p><strong>加黑字体</strong>
-<del>这是什么</del></p>
+    <title type="html"><![CDATA[在另外一天机器上编辑]]></title>
+    <link href="http://lihn.github.com/blog/2013/01/08/zai-ling-wai-%5B%3F%5D-tian-ji-qi-shang-bian-ji/"/>
+    <updated>2013-01-08T09:16:00+08:00</updated>
+    <id>http://lihn.github.com/blog/2013/01/08/zai-ling-wai-[?]-tian-ji-qi-shang-bian-ji</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
