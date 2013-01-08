@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lihn.github.com/atom.xml" rel="self"/>
   <link href="http://lihn.github.com/"/>
-  <updated>2013-01-08T12:12:13+08:00</updated>
+  <updated>2013-01-08T14:02:32+08:00</updated>
   <id>http://lihn.github.com/</id>
   <author>
     <name><![CDATA[lihn.alex]]></name>
@@ -28,6 +28,11 @@
 else
 {}
 </code></pre></blockquote>
+
+<pre><code>``  @@ -590,7 +590,7 @@ class SpritesTest &lt; Test::Unit::TestCase
+</code></pre>
+
+<p>it &#8220;should generate a sprite from nested folders&#8221; do</p>
 ]]></content>
   </entry>
   
