@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lihn.github.com/atom.xml" rel="self"/>
   <link href="http://lihn.github.com/"/>
-  <updated>2013-01-08T11:59:45+08:00</updated>
+  <updated>2013-01-08T12:07:38+08:00</updated>
   <id>http://lihn.github.com/</id>
   <author>
     <name><![CDATA[lihn.alex]]></name>
@@ -18,9 +18,11 @@
     <link href="http://lihn.github.com/blog/2013/01/08/code-test/"/>
     <updated>2013-01-08T11:33:00+08:00</updated>
     <id>http://lihn.github.com/blog/2013/01/08/code-test</id>
-    <content type="html"><![CDATA[<blockquote><p>下面测试代码:
-<code>  $rake generate</code>
-<code>  $rake deploy </code></p></blockquote>
+    <content type="html"><![CDATA[<blockquote><p>下面测试代码:<br/>
+` $rake generate</p>
+
+<pre><code> $rake deploy`
+</code></pre></blockquote>
 ]]></content>
   </entry>
   
